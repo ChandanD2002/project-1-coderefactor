@@ -1,0 +1,2 @@
+# project-1-coderefactor
+I refactored the code for a company by cleaning it up to make it more organized. I made sure there are semantic HTML elements when viewing the source code, the structure of the HTML elements follow a logical structure independant of styling and positioning, the image elements have accessible alt attributes, the heading attributes fall in sequential order when viewed, and the title element has a specific/descriptive title.
